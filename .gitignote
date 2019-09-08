@@ -1,0 +1,10 @@
+# DL4J Analysis file
+./analysis.html
+
+.classpath
+.project
+.DS_Store
+.settings/
+
+target/
+
